@@ -27,9 +27,10 @@ export default function Slidebar() {
           <NavLink to={"/activity"}>
             <img
               src={require("../assets/images/IMG_6648.JPG")}
-              alt="Daniel Jebarson"
+              alt="Faisal Awan"
               title="Discord Activity"
-              className="rounded-full border-solid cursor-pointer  border-[4px] border-stone-600 min-h-fit mx-auto  max-w-[100px]"
+              className="border-solid cursor-pointer  border-[4px] border-stone-600 min-h-fit mx-auto max-w-[120px]"
+              style={{ borderRadius: '50%' }}
             />
             <h3 className="text-white name py-4 font-medium ">
               Faisal Awan
