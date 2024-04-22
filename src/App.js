@@ -12,6 +12,10 @@ export default function App() {
       path: "/activity",
       element: <ActivityPage />,
     },
+    // {
+    //   path: "/activity",
+    //   element: <ActivityPage />,
+    // },
   ]);
   return <RouterProvider router={router} />;
 }

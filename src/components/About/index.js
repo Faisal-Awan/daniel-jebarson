@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 /* eslint-disable no-unused-vars */
+=======
+>>>>>>> 8926a462c3a91ac7e57b7e7cf5bca8e08734fa05
 
 import "../../App.css";
 import DownloadIcon from "@mui/icons-material/Download";
 import * as LottiePlayer from "@lottiefiles/lottie-player";
 
+<<<<<<< HEAD
 export default function About() {
   // const getDate = () => {
   //   var dob = new Date("01/21/1999");
@@ -13,6 +17,8 @@ export default function About() {
   //   var age = Math.abs(year - 1970);
   //   return age;
   // };
+=======
+>>>>>>> 8926a462c3a91ac7e57b7e7cf5bca8e08734fa05
 
   return (
     <div
