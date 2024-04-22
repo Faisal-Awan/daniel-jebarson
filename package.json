@@ -1,6 +1,5 @@
 {
-  "homepage": "https://daniel-jebarson.github.io",
-  "name": "portfolio",
+  "name": "faisalportfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

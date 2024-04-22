@@ -26,13 +26,13 @@ export default function Slidebar() {
         <div data-aos="slide-down">
           <NavLink to={"/activity"}>
             <img
-              src={require("../assets/images/MyImage.webp")}
+              src={require("../assets/images/IMG_6648.JPG")}
               alt="Daniel Jebarson"
               title="Discord Activity"
-              className="rounded-full border-solid cursor-pointer  border-[8px] border-stone-600 min-h-fit mx-auto  max-w-[190px]"
+              className="rounded-full border-solid cursor-pointer  border-[4px] border-stone-600 min-h-fit mx-auto  max-w-[100px]"
             />
             <h3 className="text-white name py-4 font-medium ">
-              Daniel Jebarson K
+              Faisal Awan
             </h3>
           </NavLink>
         </div>
@@ -130,7 +130,7 @@ export default function Slidebar() {
         <div
           title="Github"
           onClick={() =>
-            window.open("https://github.com/daniel-jebarson", "_blank")
+            window.open("https://github.com/Faisal-Awan", "_blank")
           }
         >
           <GitHubIcon className="cursor-pointer hover:scale-105" />
@@ -138,7 +138,7 @@ export default function Slidebar() {
         <div
           title="Instagram"
           onClick={() =>
-            window.open("https://www.instagram.com/daniel_diago2003", "_blank")
+            window.open("https://www.instagram.com/faisal_awan33/", "_blank")
           }
         >
           {" "}
@@ -148,7 +148,7 @@ export default function Slidebar() {
           title="Linkedin"
           onClick={() =>
             window.open(
-              "https://www.linkedin.com/in/daniel-jebarson-k-a727a822a",
+              "https://www.linkedin.com/in/faisal-awan-34441b1ba/",
               "_blank"
             )
           }
@@ -159,7 +159,7 @@ export default function Slidebar() {
         <div
           title="Facebook"
           onClick={() =>
-            window.open("https://www.facebook.com/daniel.jebarson.9", "_blank")
+            window.open("https://www.facebook.com/malik.faisal.10048379Awan/", "_blank")
           }
         >
           <FacebookIcon className="cursor-pointer hover:scale-105" />
