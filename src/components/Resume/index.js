@@ -31,14 +31,11 @@ export default function Resume() {
               Frontend Development Libraries
             </h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-500">
-              Completed on December 9, 2022
+              {/* Completion Date: December 9, 2022 */}
             </time>
             <p class="text-base font-normal text-gray-400">
-              Learns how to style your site quickly with Bootstrap. I also learn
-              how to add logic to your CSS styles and extend them with React different UI's.
-              Later, I also built a Car Rental and other applications to
-              learn how to create powerful Single Page Applications (SPAs)
-              with React.
+              Learned how to quickly style websites using Bootstrap. Also acquired skills in adding logic to CSS styles and extending them with React for various UI designs.
+               Developed a Car Rental application and other projects to master building powerful Single Page Applications (SPAs) with React.
             </p>
             {/* <a
               target="_blank"
@@ -82,13 +79,11 @@ export default function Resume() {
               BackEnd Development
             </h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-500">
-              Completed on May 28th, 2023
+              {/* Completed on May 28th, 2023 */}
             </time>
             <p class="text-base font-normal text-gray-400">
-              Learned how to write back end apps with Node.js and npm.
-              Currently working on .Net Core. I also
-              built web applications, and build some
-              mini-projects
+              Acquired proficiency in writing backend applications using Node.js and npm. Currently engaged in learning .Net Core.
+               Developed web applications and several mini-projects to enhance practical skills.
             </p>
             {/* <a
               href="https://www.freecodecamp.org/certification/Daniel_Jebarson/back-end-development-and-apis"
@@ -130,14 +125,13 @@ export default function Resume() {
             </span>
             {/* <h3 class="flex items-center mb-1 text-lg font-semibold  text-white ml-28" > */}
             <h3 class="mb-1 text-lg font-semibold text-white">
-
-              DataBase MySQL
+              Database MySQL
             </h3>
             <time class="block pt-1 pb-3  text-sm font-normal leading-none  text-gray-500">
-              Completed on July 7th, 2023
+              {/* Completed on July 7th, 2023 */}
             </time>
             <p class="mb-4 text-base font-normal  text-gray-400">
-              "I have started learning MySQL, and I have a good understanding of MySQL queries and stored procedures."
+              Began learning MySQL, gaining a solid understanding of MySQL queries and stored procedures.
             </p>
             {/* <a
               href="https://www.credly.com/badges/bf6b9024-d4f8-465d-b345-d9b0c5a7abab/public_url"

@@ -1,13 +1,11 @@
-<<<<<<< HEAD
+
 /* eslint-disable no-unused-vars */
-=======
->>>>>>> 8926a462c3a91ac7e57b7e7cf5bca8e08734fa05
 
 import "../../App.css";
 import DownloadIcon from "@mui/icons-material/Download";
 import * as LottiePlayer from "@lottiefiles/lottie-player";
 
-<<<<<<< HEAD
+
 export default function About() {
   // const getDate = () => {
   //   var dob = new Date("01/21/1999");
@@ -17,8 +15,7 @@ export default function About() {
   //   var age = Math.abs(year - 1970);
   //   return age;
   // };
-=======
->>>>>>> 8926a462c3a91ac7e57b7e7cf5bca8e08734fa05
+
 
   return (
     <div
@@ -44,18 +41,15 @@ export default function About() {
             className="pt-5 leading-7 text-slate-900 text-justify"
             data-aos={"fade-left"}
           >
-            I love playing cricket, and playing games. I am
-            currently pursuing BSCS degree in VU Pakistan
-             {/* I am {getDate()}{" "}  years old. */} &
-             I love exploring new technologies.
+            I'm Faisal Awan, a passionate web enthusiast. Currently, I'm pursuing a BSCS degree at VU Pakistan, 
+            where I indulge in exploring cutting-edge technologies.
           </p>
           <p
             className="text-justify leading-7 text-slate-900"
             data-aos={"fade-right"}
           >
-            I am currently looking for jobs. I am also a Ract.Js developer.
-            I worked on ReactJs, Javascript, HTML, CSS, MUI and many more. I am
-            also looking to collaborate in open-source projects.
+            As I actively seek job opportunities, I specialize in React.js development, proficient in React.js, JavaScript, HTML, CSS, MUI, and other related technologies. 
+            I'm keen on engaging in open-source projects and expanding my collaborative endeavor
           </p>
         </div>
 

@@ -37,10 +37,10 @@ export default function Home() {
         <Typewriter
           options={{
             strings: [
-              "✋I'm Faisal Awan",
-              "I'm an enthusiast React.Js 🌐developer",
-              "I'm a 4th yr BSCS 👨‍🎓 student at VU Pakistan",
-              "You can 📲 me through +92312 4670431 or ✉️",
+              "👋 I'm Faisal Awan",
+              "an enthusiastic React.js 🌐 developer.",
+              // "I'm a 4th-year BSCS 👨‍🎓 student at VU Pakistan.",
+              "You can contact me at 📲 +92312 4670431 or ✉️ faisal.awan3303@gmail.com."
             ],
             delay: 150,
             pauseFor: 1500,
